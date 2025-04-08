@@ -1,0 +1,4 @@
+2025-04-08 01:26:55.367246 - Received CBT.V508.FILE085.PDS from FILE085.XMI 
+2025-04-08 01:26:55.370695 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE085.PDS, moved to PDS/$$$#DATE
+2025-04-08 01:26:55.372135 - Found @FILE085.txt (text/plain) in CBT.V508.FILE085.PDS, moved to PDS/@FILE085
+2025-04-08 01:26:55.373960 - Found PFXREF.bin (application/octet-stream) in CBT.V508.FILE085.PDS, moved to PDS/PFXREF
